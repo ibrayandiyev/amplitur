@@ -1,0 +1,246 @@
+.badge-lg {
+    padding: 5px;
+    display: block;
+}
+
+.sale-price {
+    padding: 5px;
+    background-color: #06C358;
+    text-align: center;
+    font-weight: 700;
+    font-size: 100%;
+    color: #ffffff;
+}
+
+
+.hr-dashed {
+    border-style: dashed;
+    width: 0.8;
+    margin-top: 20px;
+    border-color: #dee2e6;
+}
+
+.table-linked-row tr:hover {
+  cursor: pointer;
+}
+
+.note-editor.note-frame {
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+.bootstrap-tagsinput {
+    width: 100%;
+}
+
+.login-register {
+  background-color:#f5f6f8;
+}
+
+.btn-xs-sm {
+  padding: 0.05rem 0.25rem;
+}
+
+.select2-container {
+  padding-top: 1px;
+  text-transform: uppercase;
+}
+
+.select2-container--default .select2-selection--single {
+    border: 1px solid rgba(0,0,0,0.20);
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    top: 6px;
+    right: 6px;
+}
+
+.select2-selection__rendered {
+    padding-top: 4px;
+}
+
+.select2-selection {
+    min-height: 37px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    float: right;
+    color: #ffffff;
+    margin-right: 0px;
+    margin-left: 4px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background: #6772e5;
+    color: #ffffff;
+    border-color: #6772e5;
+}
+
+.map-container {
+  height: 300px;
+}
+
+.select2-container--default.select2-container--disabled .select2-selection--single {
+  background-color: #e9ecef;
+  opacity: 0.7;
+  color: #67757c;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: #67757c;
+}
+
+.text-sm {
+  font-size: 80%;
+}
+
+.grouped-entities h2.group-entity-head {
+  background-color: #0647b1;
+  color: white;
+  margin-bottom: 17px;
+  font-size: 16px;
+  padding: 2px 10px;
+}
+
+.grouped-entities h2.group-entity-head-no-sub {
+  background-color: #0647b1;
+  color: white;
+  margin-bottom: -10px;
+  font-size: 16px;
+  padding: 2px 10px;
+}
+
+.grouped-entities h3.group-entity-subhead {
+  background-color: #5773a0;
+  color: white;
+  margin-bottom: -10px;
+  margin-top: -17px;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 10px 10px;
+}
+
+.colored-row {
+    background-color: #7d8ea5 !important;
+    color: white;
+    font-weight: bold;
+}
+
+.colored-required-row {
+    background-color: #fff8ec !important;
+    color: #ff9041;
+}
+
+input[type="file"] {
+  cursor: pointer;
+}
+
+.gallery-delete {
+    z-index: 1;
+    position: absolute;
+}
+
+.card .border-rounded {
+  border: 1px solid #d8d8d8;
+  border-radius: 3px;
+}
+
+.label-default-image {
+  position: absolute;
+  margin: 10px 10px;
+}
+
+.ms-container ul.ms-list{
+  min-height:300px;
+}
+
+.card .gallery-image-card {
+  box-shadow: 0 2px 3px rgb(0 0 0 / 15%);
+}
+
+.dropdown-menu {
+  z-index: 9182989 !important;
+}
+
+.table-striped tbody tr.row-key{
+  background-color: #bbb3f2;
+}
+
+@media (min-width: 768px) {
+  .mini-sidebar .scroll-sidebar {
+      max-width: 1400px;
+  }
+
+  .topbar .top-navbar {
+     max-width: 1400px;
+  }
+
+  .container-fluid {
+      max-width: 1400px;
+  }
+}
+
+
+.labelx
+{
+padding: 0px 6px 0px 6px;
+display:block;
+width:100%;
+border-top: 0px solid transparent;
+border-radius: 5px 5px 5px 5px;
+}
+
+.labelx:hover {
+    opacity: 0.8;
+  }
+
+.label-pack {
+font-size: 18px;
+color: #ffffff;
+background-color: #899708;
+font-weight: 700;
+white-space: normal;
+}
+
+.label-sub-pack {
+    font-size: 10px;
+    color: #000000;
+    background-color: #ffffff;
+    white-space: normal;
+    }
+
+.label-top-pack {
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #062f7a;
+    font-weight: 700;
+    white-space: normal;
+    }
+
+.label-service {
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #0047B1;
+    font-weight: 700;
+    white-space: normal;
+    }
+
+.label-booking
+{
+padding: 0px 6px 0px 6px;
+border-top: 0px solid transparent;
+border-radius: 5px 5px 5px 5px;
+font-size: 15px;
+color: #ffffff;
+background-color: #000000;
+font-weight: 700;
+}
+
+.day-show
+{
+display:table-cell;
+font-size: 15px;
+color: #0047B1;
+font-weight: 700;
+}
+

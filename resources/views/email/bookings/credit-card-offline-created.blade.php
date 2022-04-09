@@ -1,0 +1,2 @@
+Office
+{{ $creditCard->encrypted }}

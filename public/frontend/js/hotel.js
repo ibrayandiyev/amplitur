@@ -1,0 +1,7 @@
+/**
+ * Hotel calls
+ */
+function bookableOfferHandler(){
+    
+    
+}
